@@ -1,0 +1,5 @@
+{
+  "main.py::testPage[carlo-pass]": true,
+  "main.py::testPage[francis-12345]": true,
+  "main.py::testPage[chavito-55]": true
+}

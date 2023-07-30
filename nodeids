@@ -1,0 +1,9 @@
+[
+  "main.py::testLogout",
+  "main.py::testLogoutMenu",
+  "main.py::testPage[admin-123456]",
+  "main.py::testPage[carlo-pass]",
+  "main.py::testPage[chavito-55]",
+  "main.py::testPage[francis-12345]",
+  "main.py::testUserList"
+]
